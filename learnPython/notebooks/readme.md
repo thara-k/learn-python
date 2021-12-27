@@ -48,3 +48,5 @@ https://nbviewer.jupyter.org/github/mGalarnyk/Python_Tutorials/blob/master/Pytho
 
 
 https://github.com/jupyter/jupyter/wiki#general-python-programming
+
+https://github.com/adipandas/python-tutorial-codes
