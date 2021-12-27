@@ -45,3 +45,6 @@ https://nbviewer.jupyter.org/github/mGalarnyk/Python_Tutorials/blob/master/Pytho
 https://nbviewer.jupyter.org/github/mGalarnyk/Python_Tutorials/blob/master/Python_Basics/Intro/Python3Basics_Video4_Blog_Companion.ipynb
 
 https://nbviewer.jupyter.org/github/mGalarnyk/Python_Tutorials/blob/master/Python_Basics/Intro/Python3Basics_Video5_Blog_Companion.ipynb
+
+
+https://github.com/jupyter/jupyter/wiki#general-python-programming
